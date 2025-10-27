@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Learn Prompt Engineering",
+  "description": "A chatbot powered by Gemini with Google Search and Maps grounding to help you learn and explore prompt engineering with up-to-date and location-aware information.",
+  "requestFramePermissions": []
+}
